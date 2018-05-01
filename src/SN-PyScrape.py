@@ -34,8 +34,8 @@ import urllib
 
 #Static program information.
 NAME = "SN-PyScrape"
-VERSION = "v1.0.0"
-BUILDDATE = "11/06/2016"
+VERSION = "v1.0.1"
+BUILDDATE = "01/05/2018"
 DESCRIPTION = "Security Now LQ MP3 Podcast Downloader."
 
 #Some global variables
@@ -53,6 +53,7 @@ sn_urls = ["https://www.grc.com/sn/past/2005.htm",
         "https://www.grc.com/sn/past/2013.htm",
         "https://www.grc.com/sn/past/2014.htm",
         "https://www.grc.com/sn/past/2015.htm",
+        "https://www.grc.com/sn/past/2016.htm",
         "https://www.grc.com/securitynow.htm"]
 
 #Welcome function.
